@@ -1,8 +1,8 @@
-# CARZZ 3330 App (Updated in 2024)
+# CARZZ 3330 App 
 
 ## Project History
 
-This project was originally developed as part of my Bachelor's coursework in 2022. It was a full-stack vehicle marketplace platform built to practice React, Node.js, and database management.
+This project was originally developed as part of my Bachelor's coursework in 2022. It is a full-stack vehicle marketplace platform built to practice React, Node.js, and database management.
 
 In 2024, I revisited and updated the project to:
 - Host it on a cloud server for public accessibility
