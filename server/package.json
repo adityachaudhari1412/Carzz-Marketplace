@@ -1,0 +1,31 @@
+{
+  "name": "rental_db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "engines":{
+    "node":"14.18.1"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "express-jwt": "^6.1.0",
+    "messagebird": "^2.1.4",
+    "mongoose": "^6.0.13",
+    "nodemon": "^2.0.15",
+    "unirest": "^0.6.0"
+  }
+}
